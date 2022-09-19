@@ -29,21 +29,12 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcnoble1&layout=compact)](https://github.com/mcnoble1/github-readme-stats)
   
   
-  ![Kemi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcnoble1&show_icons=true&theme=buefy)
+  ![Festus GitHub stats](https://github-readme-stats.vercel.app/api?username=mcnoble1&show_icons=true&theme=buefy)
 
-<!---
-KemiDoyin/KemiDoyin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+  ![](https://komarev.com/ghpvc/?username=mcnoble1&color=blue)
 
 <!--
 **Mcnoble1/Mcnoble1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<div id="header" align="center">
-  <img src="https://camo.githubusercontent.com/2cacb317b60df6d56eb1c60387feb52a2706ae543e41509b613d84fe453420ff/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4e67757259316f347a3038304a666f797a772f67697068792e676966" width="300" height="300"/>
-</div>
-<h1 align="center"> 👋 Hi, I’m Kemi Adedoyin </h1>
 
 
 Here are some ideas to get you started:
