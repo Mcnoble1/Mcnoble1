@@ -1,7 +1,7 @@
 ### About Me :
 - 👋 Hi, I'm Festus Idowu.
 
-- :eyes: I am a Software Engineer.
+- :eyes: I am a Software Engineer proficient with ReactJS, NextJS, NdeJS.
 
 - 🌱 I’m currently learning Backend Development using NodeJS, Blockchain Development using Reach Lang
 
