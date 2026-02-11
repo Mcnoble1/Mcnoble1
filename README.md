@@ -19,12 +19,8 @@
 ### :hammer_and_wrench: Languages and Tools :
 ![](https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,nodejs,express,mongodb,postgres,git,docker,githubactions,linux)
   
----
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcnoble1&layout=compact)](https://github.com/mcnoble1/github-readme-stats)
+---  
   
-  
-  ![Festus GitHub stats](https://github-readme-stats.vercel.app/api?username=mcnoble1&show_icons=true&theme=buefy)
-
   ![](https://komarev.com/ghpvc/?username=mcnoble1&color=blue)
 
 <!--
