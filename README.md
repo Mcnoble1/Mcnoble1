@@ -1,18 +1,16 @@
 ### About Me :
-- 👋 Hi, I'm Festus Idowu.
+- 👋 Hi, I'm Festus Idowu, but you can call me Mcnoble!.
 
-- :eyes: I am a Software Engineer proficient with ReactJS, NextJS, NodeJS.
-
-- 🌱 I’m currently learning Backend Development using NodeJS, Blockchain Development using Reach Lang
+- :eyes: Doing things at the intersection of Software Engineering, Site Reliability, Systems Design, Databases and Distributed Systems.
 
 - 😄 Pronouns: He/Him
 
-- :people_holding_hands: I am looking to collaborate on  front end and open source projects.
+- :people_holding_hands: I am looking to chat and geek about systems.
 
 - :iphone: Connect with me: [![Linkedin Badge](https://img.shields.io/badge/Twitter-purple?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mcnobledev)
 
 
-- :computer: You can view my portfolio here - https://idowufestus.netlify.app/
+- :computer: Wanna come into my world? - https://idowufestus.netlify.app/ - Manage that, Mac is building his world, still under construction.
 
 
 ---
